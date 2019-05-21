@@ -1,0 +1,20 @@
+{
+  "name": "tempconverter",
+  "version": "0.0.0",
+  "description": "converts temp to other unit C, K, F",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "watch:build": "tsc -w"
+  },
+  "author": "Tina Colvin",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^12.0.2",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {}
+}
