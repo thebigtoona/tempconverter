@@ -2,7 +2,7 @@
 
 ## Description
 
-Just playing around with objects building and something basic.  Learning some basic typescript 
+Just playing around with objects and building something basic.  Learning some basic typescript 
 
 ## Requirements 
 
